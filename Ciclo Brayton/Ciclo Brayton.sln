@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ciclo Brayton", "Ciclo Brayton\Ciclo Brayton.pyproj", "{47CF83ED-51B1-49FC-8FC3-CC6E96B97CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CF83ED-51B1-49FC-8FC3-CC6E96B97CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CF83ED-51B1-49FC-8FC3-CC6E96B97CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB915CDF-208B-4632-9F6D-18F6951C04C3}
+	EndGlobalSection
+EndGlobal
